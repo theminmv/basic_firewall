@@ -11,8 +11,8 @@ A basic Python-based packet filtering firewall using `scapy`.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple_firewall.git
-    cd simple_firewall
+    https://github.com/theminmv/basic_firewall.git
+    cd basic_firewall
     ```
 
 2. Install dependencies:
